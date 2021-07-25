@@ -12,6 +12,7 @@ public class Demo1Application {
 		ApplicationContext con13 = SpringApplication.run(Demo1Application.class, args);
 		System.out.println("hai");
 		System.out.println("hai");
+		System.out.println("bye");
 	}
 
 }
