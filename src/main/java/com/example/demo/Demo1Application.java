@@ -13,6 +13,7 @@ public class Demo1Application {
 		System.out.println("hai");
 		System.out.println("hai");
 		System.out.println("bye");
+		System.out.println("bye");
 	}
 
 }
