@@ -10,7 +10,7 @@ public class Demo1Application {
 	public static void main(String[] args) {
 		
 		ApplicationContext con13 = SpringApplication.run(Demo1Application.class, args);
-		System.out.println("hai");
+		//System.out.println("hai");
 		System.out.println("hai");
 		System.out.println("bye");
 		System.out.println("bye");
