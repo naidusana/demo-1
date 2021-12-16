@@ -15,7 +15,7 @@ public class Demo1Application {
 		System.out.println("bye");
 		System.out.println("bye");
 		System.out.println("bye");
-		System.out.println("gud");
+		System.out.println("i am");
 	}
 
 }
