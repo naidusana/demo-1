@@ -16,7 +16,7 @@ public class Demo1Application {
 		System.out.println("bye");
 		System.out.println("bye");
 		System.out.println("how");
-		System.out.println("practice-2a");
+    System.out.println("practice-1a");
 	}
 
 }
